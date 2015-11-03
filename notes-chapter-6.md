@@ -9,4 +9,7 @@ A famous example for such a proof of an equally famous theorem is discussed in t
 A few articles on the subject illustrate the debate that is still going on:
 
  - [Will Computers Redefine the Roots of Math?](https://www.quantamagazine.org/20150519-will-computers-redefine-the-roots-of-math/)
-
+ - [Computer generated math proof is too large for humans to check](http://phys.org/news/2014-02-math-proof-large-humans.html)  (see also [the original paper](http://arxiv.org/abs/1402.2184) about this proof)
+ - [In Computers We Trust?](https://www.quantamagazine.org/20130222-in-computers-we-trust/)
+ - [The future of proof](https://plus.maths.org/content/future-proof)
+ - [On proof and progress in mathematics](http://arxiv.org/abs/math/9404236)
