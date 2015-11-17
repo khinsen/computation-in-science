@@ -1,0 +1,34 @@
+title: Computation in Science
+subTitle: A book by Konrad Hinsen
+
+menu:
+  items:
+    chapter-1:
+      text: Chapter 1
+      relativeUrl: notes-chapter-1.html
+    chapter-2:
+      text: Chapter 2
+      relativeUrl: notes-chapter-2.html
+    chapter-3:
+      text: Chapter 3
+      relativeUrl: notes-chapter-3.html
+    chapter-4:
+      text: Chapter 4
+      relativeUrl: notes-chapter-4.html
+    chapter-5:
+      text: Chapter 5
+      relativeUrl: notes-chapter-5.html
+    chapter-6:
+      text: Chapter 6
+      relativeUrl: notes-chapter-6.html
+
+
+baseUrl: http://computation-in-science.khinsen.net
+
+template:
+  directory: website
+  index: index.md
+
+github:
+  user: khinsen
+  repo: computation-in-science
