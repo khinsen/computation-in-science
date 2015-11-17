@@ -1,3 +1,7 @@
+---
+currentMenu: chapter-5
+---
+
 # Notes for chapter 5: "Taming complexity"
 
 ## Errors in scientific software

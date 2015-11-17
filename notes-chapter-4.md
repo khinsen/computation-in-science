@@ -1,3 +1,7 @@
+---
+currentMenu: chapter-4
+---
+
 # Notes for chapter 4: "Automating computation"
 
 ## Recommended computer science literature

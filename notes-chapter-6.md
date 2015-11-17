@@ -1,3 +1,7 @@
+---
+currentMenu: chapter-6
+---
+
 # Notes for chapter 6: "Scientific knowledge in the digital age"
 
 ## Computerized proofs in mathematics
