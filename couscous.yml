@@ -21,7 +21,11 @@ menu:
     chapter-6:
       text: Chapter 6
       relativeUrl: notes-chapter-6.html
-
+    separator:
+      text: '<div class="customHr">.</div>'
+    examples:
+      text: Examples
+      relativeUrl: examples.html
 
 baseUrl: http://computation-in-science.khinsen.net
 
