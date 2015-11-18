@@ -17,3 +17,9 @@ A few articles on the subject illustrate the debate that is still going on:
  - [In Computers We Trust?](https://www.quantamagazine.org/20130222-in-computers-we-trust/)
  - [The future of proof](https://plus.maths.org/content/future-proof)
  - [On proof and progress in mathematics](http://arxiv.org/abs/math/9404236)
+
+## Reproducibility
+
+Outside of scientific research, reproducibility is becoming a goal in software engineering for a different reason: ensuring that software can be trusted, i.e. that it is free of viruses and that it is not secretly spying out its users. This can only be ensured if the software's source code is publicly inspectable, and if the path from source code to executables can be verified. An [initiative](https://reproducible-builds.org/) towards this goal deals with problems very similar to those encountered in reproducible computational research.
+
+Constructing and maintaining complete reproducible system software installations is the goal of several Linux-related projects: [NixOS](https://nixos.org/), [Guix](https://www.gnu.org/software/guix/), [Reproducible Debian](https://reproducible.debian.net/reproducible.html).
