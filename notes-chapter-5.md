@@ -16,3 +16,7 @@ A few recent articles have pointed out or illustrated the problem of errors in s
 ## Formal verification of software
 
 The first part of a [lecture](https://www.youtube.com/watch?v=Y2jQe8DFzUM) by Benjamin Pierce (47 mn) gives a good overview of how specifications are used today in real-life software development. The second part is about a specification for the Dropbox synchronization service.
+
+## Managing state
+
+A short and pragmatic discussion of why functional programming matters for dealing with program complexity is given in [a blog post](http://blog.jenkster.com/2015/12/what-is-functional-programming.html) by Krys Jenkins.
