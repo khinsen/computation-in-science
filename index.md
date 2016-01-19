@@ -6,3 +6,8 @@ This is the companion Web site to my book "[Computation in Science](https://iops
 
 I will regularly add new references that I discover and remove links that no longer work. Suggestions and corrections are welcome - please [open an issue](https://github.com/khinsen/computation-in-science/issues) (or submit a pull request) on the [GitHub repository](http://github.com/khinsen/computation-in-science).
 
+You can buy a copy of the book at
+ - [Morgan & Claypool](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=884) (eBook and paperback)
+ - [Amazon](http://www.amazon.com/Computation-Science-Konrad-Hinsen/dp/168174029X/ref=sr_1_3?ie=UTF8&qid=1453220435&sr=8-3) (paperback)
+ - a few other [on-line bookstores](http://www.isbnsearch.org/isbn/9781681740294) (paperback)
+ - from your favorite bookstore (paperback)
