@@ -4,6 +4,21 @@ currentMenu: chapter-6
 
 # Notes for chapter 6: "Scientific knowledge in the digital age"
 
+## Scientific communication
+
+The opportunities for improving scientific communication by integrating algorithms and data into our publications are illustrated by a few examples:
+
+ - ["Explorable Explanations"](http://worrydream.com/ExplorableExplanations/) by [Bret Victor](http://worrydream.com/)
+ - ["Up and Down the Ladder of Abstractions"](http://worrydream.com/LadderOfAbstraction/) by [Bret Victor](http://worrydream.com/)
+- ["Parable of the Polygons"](http://ncase.me/polygons/) by [Vi Hart](http://vihart.com/) and [Nicky Case](http://www.patreon.com/ncase)
+
+In his talk ["Media for Thinking
+the Unthinkable"](http://worrydream.com/#!/MediaForThinkingTheUnthinkable), [Bret Victor](http://worrydream.com/) explains why this approach is powerful, and shows some additional examples.
+
+For an example from data-intensive scientific research, see the [discussion](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) of the signal processing techniques used in the [LIGO](http://ligo.org/) experiment to detect gravitational waves. It has been published as a [Jupyter notebook](http://jupyter.org/) that has been made on-line executable using the [binder](http://mybinder.org/) tool. Clicking [this link](http://mybinder.org/repo/minrk/ligo-binder) should take you to a Web page where you can explore the data interactively.
+
+An [overview](http://blog.ibmjstart.net/2016/03/21/powered-by-jupyter/) of the technological ecoystem around Jupyter notebooks provides a snapshot of tools available today.
+
 ## Computerized proofs in mathematics
 
 Mathematicians use computers to generate and verify proofs that are much too long for any human to verify. This raises issues very similar to those resulting from complex computations in science. Can we trust these proofs? What is the status of this kind of knowledge?
