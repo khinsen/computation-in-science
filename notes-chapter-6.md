@@ -10,7 +10,7 @@ The opportunities for improving scientific communication by integrating algorith
 
  - ["Explorable Explanations"](http://worrydream.com/ExplorableExplanations/) by [Bret Victor](http://worrydream.com/)
  - ["Up and Down the Ladder of Abstractions"](http://worrydream.com/LadderOfAbstraction/) by [Bret Victor](http://worrydream.com/)
-- ["Parable of the Polygons"](http://ncase.me/polygons/) by [Vi Hart](http://vihart.com/) and [Nicky Case](http://www.patreon.com/ncase)
+ - ["Parable of the Polygons"](http://ncase.me/polygons/) by [Vi Hart](http://vihart.com/) and [Nicky Case](http://www.patreon.com/ncase)
 
 In his talk ["Media for Thinking
 the Unthinkable"](http://worrydream.com/#!/MediaForThinkingTheUnthinkable), [Bret Victor](http://worrydream.com/) explains why this approach is powerful, and shows some additional examples.
