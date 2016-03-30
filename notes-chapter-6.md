@@ -6,16 +6,16 @@ currentMenu: chapter-6
 
 ## Scientific communication
 
-The opportunities for improving scientific communication by integrating algorithms and data into our publications are illustrated by a few examples:
-
- - ["Explorable Explanations"](http://worrydream.com/ExplorableExplanations/) by [Bret Victor](http://worrydream.com/)
- - ["Up and Down the Ladder of Abstractions"](http://worrydream.com/LadderOfAbstraction/) by [Bret Victor](http://worrydream.com/)
- - ["Parable of the Polygons"](http://ncase.me/polygons/) by [Vi Hart](http://vihart.com/) and [Nicky Case](http://www.patreon.com/ncase)
+The opportunities for improving scientific communication by integrating algorithms and data into our publications are illustrated by the examples collected on [Explorable Explanations](http://explorableexplanations.com/).
 
 In his talk ["Media for Thinking
 the Unthinkable"](http://worrydream.com/#!/MediaForThinkingTheUnthinkable), [Bret Victor](http://worrydream.com/) explains why this approach is powerful, and shows some additional examples.
 
-For an example from data-intensive scientific research, see the [discussion](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) of the signal processing techniques used in the [LIGO](http://ligo.org/) experiment to detect gravitational waves. It has been published as a [Jupyter notebook](http://jupyter.org/) that has been made on-line executable using the [binder](http://mybinder.org/) tool. Clicking [this link](http://mybinder.org/repo/minrk/ligo-binder) should take you to a Web page where you can explore the data interactively.
+An impressive example of explaining maths using advanced visualization techniques that rely on real-time computation is given in a [presentation by Steve Witten](https://acko.net/files/gltalks/toolsforthought#0).
+
+The [Oriole Online Tutorials](http://www.oreilly.com/oriole/index.html?intcmp=il-na-books-videos-lp-na_new_site_oriole_announcement_text_cta) add a video narrative to a computational protocol, an idea that has a lot of potential for scientific communication.
+
+For an example of computation-oriented publishing from data-intensive scientific research, see the [discussion](https://losc.ligo.org/s/events/GW150914/GW150914_tutorial.html) of the signal processing techniques used in the [LIGO](http://ligo.org/) experiment to detect gravitational waves. It has been published as a [Jupyter notebook](http://jupyter.org/) that has been made on-line executable using the [binder](http://mybinder.org/) tool. Clicking [this link](http://mybinder.org/repo/minrk/ligo-binder) should take you to a Web page where you can explore the data interactively.
 
 An [overview](http://blog.ibmjstart.net/2016/03/21/powered-by-jupyter/) of the technological ecoystem around Jupyter notebooks provides a snapshot of tools available today.
 
