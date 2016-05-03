@@ -19,6 +19,8 @@ For an example of computation-oriented publishing from data-intensive scientific
 
 An [overview](http://blog.ibmjstart.net/2016/03/21/powered-by-jupyter/) of the technological ecoystem around Jupyter notebooks provides a snapshot of tools available today.
 
+The references address mainly the user interface aspects of publishing computational science. Most of the examples shown are relatively simple. Complex algorithms and models for complex systems pose the additional problem of representating complex digital knowledge in a form that is both precise enough for computers and manageable for human readers. My article ["Scientific notations for the digital era"](http://sjscience.org/article?id=527) explains the need for a new approach to integrating digital knowledge into scientific communication and suggests strategies for implementing this approach.
+
 ## Computerized proofs in mathematics
 
 Mathematicians use computers to generate and verify proofs that are much too long for any human to verify. This raises issues very similar to those resulting from complex computations in science. Can we trust these proofs? What is the status of this kind of knowledge?
