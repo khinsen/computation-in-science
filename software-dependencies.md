@@ -76,13 +76,13 @@ Run-time dependency graph
 -------------------------
 
 9 packages, 27 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/openbabel-run-time.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/openbabel-run-time.pdf">View as PDF</a><br>
 
 Recursive build dependency graph
 --------------------------------
 
 121 packages, 2209 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/openbabel-recursive-build.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/openbabel-recursive-build.pdf">View as PDF</a><br>
 
 Scikit-learn
 ============
@@ -96,13 +96,13 @@ Run-time dependency graph
 -------------------------
 
 38 packages, 153 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/python-scikit-learn-run-time.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/python-scikit-learn-run-time.pdf">View as PDF</a><br>
 
 Recursive build dependency graph
 --------------------------------
 
 485 packages, 10715 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/python-scikit-learn-recursive-build.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/python-scikit-learn-recursive-build.pdf">View as PDF</a><br>
 
 FEniCS
 ======
@@ -117,10 +117,10 @@ Run-time dependency graph
 -------------------------
 
 112 packages, 587 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/fenics-run-time.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/fenics-run-time.pdf">View as PDF</a><br>
 
 Recursive build dependency graph
 --------------------------------
 
 531 packages, 11841 dependency relations<br>
-<a href="http://github.com/khinsen/computation-in-science/blob/master/dependency-graphs/fenics-recursive-build.pdf">View as PDF</a><br>
+<a href="http://github.com/khinsen/computation-in-science/raw/master/dependency-graphs/fenics-recursive-build.pdf">View as PDF</a><br>
