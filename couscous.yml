@@ -27,11 +27,40 @@ menu:
       text: Examples
       relativeUrl: examples.html
 
+menu2:
+  items:
+    chapter-1:
+      text: Chapter 1
+      relativeUrl: notes-chapter-1-2nd.html
+    chapter-2:
+      text: Chapter 2
+      relativeUrl: notes-chapter-2-2nd.html
+    chapter-3:
+      text: Chapter 3
+      relativeUrl: notes-chapter-3-2nd.html
+    chapter-4:
+      text: Chapter 4
+      relativeUrl: notes-chapter-4-2nd.html
+    chapter-5:
+      text: Chapter 5
+      relativeUrl: notes-chapter-5-2nd.html
+    chapter-6:
+      text: Chapter 6
+      relativeUrl: notes-chapter-6-2nd.html
+    chapter-7:
+      text: Chapter 7
+      relativeUrl: notes-chapter-7-2nd.html
+    separator:
+      text: '<div class="customHr">.</div>'
+    examples:
+      text: Examples
+      relativeUrl: examples-2nd.html
+
 baseUrl: http://computation-in-science.khinsen.net
 
 template:
   directory: website
-  index: index.md
+  index: index-1st.md
 
 github:
   user: khinsen

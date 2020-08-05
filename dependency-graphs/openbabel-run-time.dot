@@ -1,0 +1,39 @@
+digraph "Guix references" {
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" [label = "openbabel-2.4.1", shape = box, fontname = Helvetica];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = darkgoldenrod];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/6n1n9s1vlra5mi3mjvdll2wndpabiir8-inchi-1.05" [color = darkgoldenrod];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = darkgoldenrod];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" [color = darkgoldenrod];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" [color = darkgoldenrod];
+  "/gnu/store/iw2qdg3fhgcxri0gql7vyws8w1vqwjz3-openbabel-2.4.1" -> "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" [color = darkgoldenrod];
+  "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [label = "gcc-7.4.0-lib", shape = box, fontname = Helvetica];
+  "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = darkviolet];
+  "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = darkviolet];
+  "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [label = "glibc-2.29", shape = box, fontname = Helvetica];
+  "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = blue];
+  "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" -> "/gnu/store/cp72ncw4prnsga65n3pzll07hpsg524f-bash-static-5.0.7" [color = blue];
+  "/gnu/store/cp72ncw4prnsga65n3pzll07hpsg524f-bash-static-5.0.7" [label = "bash-static-5.0.7", shape = box, fontname = Helvetica];
+  "/gnu/store/6n1n9s1vlra5mi3mjvdll2wndpabiir8-inchi-1.05" [label = "inchi-1.05", shape = box, fontname = Helvetica];
+  "/gnu/store/6n1n9s1vlra5mi3mjvdll2wndpabiir8-inchi-1.05" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = darkgoldenrod];
+  "/gnu/store/6n1n9s1vlra5mi3mjvdll2wndpabiir8-inchi-1.05" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = darkgoldenrod];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" [label = "libxml2-2.9.9", shape = box, fontname = Helvetica];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" [color = blue];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = blue];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = blue];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" [color = blue];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" [color = blue];
+  "/gnu/store/cpv88zzh37l7gnsinbwxiz6mnv63s07x-libxml2-2.9.9" -> "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" [color = blue];
+  "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" [label = "bash-minimal-5.0.7", shape = box, fontname = Helvetica];
+  "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" -> "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" [color = blue];
+  "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = blue];
+  "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" [label = "xz-5.2.4", shape = box, fontname = Helvetica];
+  "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" -> "/gnu/store/29jhbbg1hf557x8j53f9sxd9imlmf02a-bash-minimal-5.0.7" [color = red];
+  "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = red];
+  "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = red];
+  "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" -> "/gnu/store/lbip9isk25isymvnb159l115xnacb5j8-xz-5.2.4" [color = red];
+  "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" [label = "zlib-1.2.11", shape = box, fontname = Helvetica];
+  "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" -> "/gnu/store/2plcy91lypnbbysb18ymnhaw3zwk8pg1-gcc-7.4.0-lib" [color = darkseagreen];
+  "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" -> "/gnu/store/ahqgl4h89xqj695lgqvsaf6zh2nhy4pj-glibc-2.29" [color = darkseagreen];
+  "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" -> "/gnu/store/qx7p7hiq90mi7r78hcr9cyskccy2j4bg-zlib-1.2.11" [color = darkseagreen];
+
+}
