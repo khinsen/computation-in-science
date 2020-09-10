@@ -4,7 +4,9 @@ layout: second-edition
 
 # Computation in Science (Second Edition)
 
-This is the companion Web site to the second edition of my book "Computation in Science", which will soon be published by [IOP Publishing](http://ioppublishing.org/). It contains additional notes for each chapter, in particular with references to on-line material that I consider of interest for my readers.
+![cover](https://cdn.iopscience.com/images/books/978-0-7503-3287-3/live/bk978-0-7503-3287-3cover.jpg)
+
+This is the companion Web site to the second edition of my book "Computation in Science", which has been published by [IOP Publishing](http://ioppublishing.org/) in September 2020. It contains additional notes for each chapter, in particular with references to on-line material that I consider of interest for my readers.
 
 The companion site for the first edition, published in 2015, remains available [here](index-1st.md) for reference.
 

@@ -60,7 +60,7 @@ baseUrl: http://computation-in-science.khinsen.net
 
 template:
   directory: website
-  index: index-1st.md
+  index: index-2nd.md
 
 github:
   user: khinsen
